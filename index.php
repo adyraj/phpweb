@@ -1,9 +1,13 @@
+Welocme!
+<br/>
+<pre>
 <?php
 
 
-print 'hello world'
+print `ifconfig`;
   
 ?>
+</pre>
 
 
 
