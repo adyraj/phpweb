@@ -4,7 +4,7 @@ Welocme!
 <?php
 
 
-print `ifconfig`
+print `ifconfig`;
   
 ?>
 </pre>
